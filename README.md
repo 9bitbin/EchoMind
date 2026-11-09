@@ -1,4 +1,4 @@
-# 🎭 EchoMind: Emotional Voice AI Experience
+# 🎭 EchoMind: Emotional Voice AI Experience (project subject to change) 
 
 **Created by:** Himal & Hammid  
 **Project Goal:** An interactive LLM-powered experience featuring real-time voice interaction, emotional emulation, and dynamic reactive behaviors.
@@ -110,7 +110,7 @@ To make this complex system easy to understand, we split the architecture into f
 ## 👥 Credits & Roles
 
 * **Himal:** .
-* **Hammid:**
+* **Hamid:**
 * what will be done: Systems Lead & Emotion Engine Architect (LLM Integration, Mood Logic, Prompt Engineering) Audio Pipeline & Voice Synthesis Lead (STT/TTS Latency Optimization, Acoustic Analysis).
 
 ---
