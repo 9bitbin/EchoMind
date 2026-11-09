@@ -109,8 +109,9 @@ To make this complex system easy to understand, we split the architecture into f
 
 ## 👥 Credits & Roles
 
-* **Himal:** Systems Lead & Emotion Engine Architect (LLM Integration, Mood Logic, Prompt Engineering).
-* **Hammid:** Audio Pipeline & Voice Synthesis Lead (STT/TTS Latency Optimization, Acoustic Analysis).
+* **Himal:** .
+* **Hammid:**
+* what will be done: Systems Lead & Emotion Engine Architect (LLM Integration, Mood Logic, Prompt Engineering) Audio Pipeline & Voice Synthesis Lead (STT/TTS Latency Optimization, Acoustic Analysis).
 
 ---
 
