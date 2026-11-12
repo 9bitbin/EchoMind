@@ -1,4 +1,4 @@
-# 🎭 EchoMind: Emotional Voice AI Experience (project subject to change) 
+# 🎭 EchoMind: Emotional Voice AI Experience (Tentative Idea Project.) 
 
 **Created by:** Himal & Hammid  
 **Project Goal:** An interactive LLM-powered experience featuring real-time voice interaction, emotional emulation, and dynamic reactive behaviors.
